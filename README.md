@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebi.s.Paul</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<p align="right"alt="coding" width="400" img src="![image](https://github.com/ebispaul07/ebispaul07/assets/132058452/e539cb0f-1817-4978-be7c-5a7d2f6082a2)
+<p align="right"alt="coding" width="400">< img src="![image](https://github.com/ebispaul07/ebispaul07/assets/132058452/e539cb0f-1817-4978-be7c-5a7d2f6082a2)
 "></p>
 
 <p align="left"> <img src="![image](https://github.com/ebispaul07/ebispaul07/assets/132058452/7767f980-15a7-4441-9055-f9d04df19507)
