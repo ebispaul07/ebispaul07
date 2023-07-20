@@ -3,8 +3,8 @@
 <img align="right"alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966
 .gif">
 
-<p align="left"> <img src="![image](https://github.com/ebispaul07/ebispaul07/assets/132058452/5166653a-3179-441f-b90e-1637247062b6)
-" alt="ebispaul07" /> </p>
+<p align="left"> <img src="![image](https://github.com/ebispaul07/ebispaul07/assets/132058452/7767f980-15a7-4441-9055-f9d04df19507)
+" /> </p>
 
 - 🌱 I’m currently learning **java Full stack**
 
